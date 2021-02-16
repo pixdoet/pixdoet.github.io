@@ -1,0 +1,23 @@
+body {
+	background-image: url("https://c4.wallpaperflare.com/wallpaper/848/877/189/8-bit-sky-clouds-pixels-wallpaper-thumb.jpg");
+	background-color: lightblue;
+
+	text-align: Center;
+	color: Black;
+	font-size: 30px;
+	font-family: Arial;
+}
+
+div {
+	text-align:Center;
+	margin: Auto;
+}
+
+.titleHolder {
+	max-width: 1000px;
+}
+.introHolder {
+	max-width: 3000px;
+}
+
+
